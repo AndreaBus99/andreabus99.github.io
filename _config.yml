@@ -20,7 +20,7 @@ description: "Portfolio for Creative Embedded Systems projects." # This will sho
 #########################################################################################
 theme: "minima"
 
-rss: rss
+# rss: rss
 
 kramdown:
   syntax_highlighter_opts:
