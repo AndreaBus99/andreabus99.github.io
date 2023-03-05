@@ -8,8 +8,10 @@ On this project, I took the opportunity to create a visual representation of wha
 
 I had a few technical difficulties when doing this project. First of all, we were supposed to power the ESP32 by using a battery. However, when I was soldering the battery cables, the battery started smoking. So I could not really use it. In the end, there was some change of plans on how the installation was going to be. The original idea was to hang the ESP32 in a public space; however, since there were some issues with the batteries, we connected our ESP32 to a small board. Although it was a more intimate and small installation, I felt that it captured the creative vision that went into doing this project. Also, all of our devices were close together, so it felt like a more communal and integrated project. I hope you like it!
 
-See video here: https://youtu.be/TvNRQE2I-nM
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TvNRQE2I-nM/0.jpg)](https://www.youtube.com/watch?v=TvNRQE2I-nM)
 
 ![IMG_2752](https://user-images.githubusercontent.com/80929001/222988937-c73eddcf-cac4-47e3-942b-2c037260f159.jpg)
+
 ![IMG_2512](https://user-images.githubusercontent.com/80929001/222988919-38efaf32-f15c-4b70-b58f-f453a0fefb71.jpg)
 
