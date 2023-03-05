@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Welcome! This is a blog about my projects done in Creative Embedded Systems at Barnard College in Spring 2023. It is meant to be a creative documentation of my work during this semester. Hope you enjoy it!
