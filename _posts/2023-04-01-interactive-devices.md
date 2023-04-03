@@ -1,6 +1,6 @@
 ## Interactive Devices: 
 ---
-Take a look at the code and technical documentation <a href="https://github.com/AndreaBus99/CES-technical-documentation/tree/main/Generative%20Art">here</a>.
+Take a look at the code and technical documentation <a href="https://github.com/AndreaBus99/CES-technical-documentation/tree/main/Interactive%20Devices">here</a>.
 
 #### Creative documentation
 
