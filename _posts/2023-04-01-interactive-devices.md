@@ -6,7 +6,9 @@ Take a look at the code and technical documentation <a href="https://github.com/
 
 The Boombox is a device that sends data back to a laptop for both visualization and sonification. I knew from the beginning that I wanted to make some kind of sonification. At first, I was only working on the technical part of it and getting it working with a continuous beeping sound. I had no idea what to create for my enclosure. Until one Friday night, I was watching the movie “Say Something,” and saw a <a href="https://www.youtube.com/watch?v=1GoH3M9Kb4g"> scene</a> where Lloyd holds a boombox above his head and plays a song outside Diane’s window. 
 <br>
+<br>
 <img width="320" alt="Screen Shot 2023-04-03 at 4 46 10 PM" src="https://user-images.githubusercontent.com/80929001/229623829-b5229837-04de-4afc-b8ae-83035669d6e1.png">
+<br>
 <br>
 This is where my creative vision came from. I changed the beeping sound to one of my favorite songs from the past few weeks, “Last words” by Kenny Beats. You can check the song I used <a href="https://www.youtube.com/watch?v=xCxt_H7e38E"> here</a>, and also a Tiny Desk Concert of Kenny Beats <a href="https://www.youtube.com/watch?v=BPRVzA67Dbs"> here</a>, he starts explaining the song at around minute 3:00. In order to make the enclosure, I used a shoe box I had and designed a boombox using illustrator. I made it more colorful since I feel like it goes better with the song. Then I made the openings for the joystick and the button. 
 <br>
