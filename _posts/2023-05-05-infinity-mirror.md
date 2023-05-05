@@ -27,8 +27,8 @@ For the documentation, I chose to add the song "What is Love" by Haddaway becaus
 <br>
 Click on video: 
 <br>
-[![VIDEO](https://img.youtube.com/vi/3ZPeTPIwRho/0.jpg)](https://www.youtube.com/watch?v=3ZPeTPIwRho)
+[![VIDEO](https://img.youtube.com/vi/u0tevgL0nK4/0.jpg)](https://www.youtube.com/watch?v=u0tevgL0nK4)
 <br>
-If it doesn't work here is the <a href="https://youtu.be/3ZPeTPIwRho"> link </a>.
+If it doesn't work here is the <a href="https://youtu.be/u0tevgL0nK4"> link </a>.
 
 
