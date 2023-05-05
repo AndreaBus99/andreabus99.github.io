@@ -20,8 +20,15 @@ To turn it on and off, I used a switch button. This way you can control when you
 <br>
 <br>
 Overall the process was not very rewarding until I finally added the mirrors and could see the final product. I had a lot of fun creating and documenting this project! 
-
-
-
+<br>
+<br>
+For the documentation, I chose to add the song "What is Love" by Haddaway because it is a song that always makes me want to dance and looks great with the patterns. 
+<br>
+<br>
+Click on video: 
+<br>
+[![VIDEO](https://img.youtube.com/vi/3ZPeTPIwRho/0.jpg)](https://www.youtube.com/watch?v=3ZPeTPIwRho)
+<br>
+If it doesn't work here is the <a href="https://youtu.be/3ZPeTPIwRho"> link </a>.
 
 
